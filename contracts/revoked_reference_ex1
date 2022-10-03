@@ -1,0 +1,16 @@
+func main() {
+    let x = [ap];
+    [ap] = 1, ap++;
+    [ap] = 2, ap++;
+
+    [ap] = x, ap++;
+    jmp rel -1;  // Jump to the previous instruction.
+}
+
+
+// Open Terminal
+// $ python3.9 -m venv env
+// $ source env/bin/activate
+// $ cd contracts
+// $ cairo-compile revoked_reference_ex1 --output revoked_reference_ex1_compiled.json
+// $ cairo-run --program=revoked_reference_ex1_compiled.json --print_output --layout=small --steps=32 --print_memory
