@@ -1,0 +1,434 @@
+{
+    "attributes": [],
+    "builtins": [],
+    "compiler_version": "0.10.0",
+    "data": [
+        "0x20780017fff7ffd",
+        "0x8",
+        "0x480680017fff8000",
+        "0x1",
+        "0x480680017fff8000",
+        "0x2",
+        "0x10780017fff7fff",
+        "0x6",
+        "0x480680017fff8000",
+        "0x1",
+        "0x480680017fff8000",
+        "0x3",
+        "0x208b7fff7fff7ffe",
+        "0x480680017fff8000",
+        "0x0",
+        "0x1104800180018000",
+        "0x800000000000010fffffffffffffffffffffffffffffffffffffffffffffff2",
+        "0x208b7fff7fff7ffe"
+    ],
+    "debug_info": {
+        "file_contents": {},
+        "instruction_locations": {
+            "0": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.foo.x": 0,
+                        "__main__.foo.y": 1
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 29,
+                    "end_line": 3,
+                    "input_file": {
+                        "filename": "revoked_reference_ex2"
+                    },
+                    "start_col": 5,
+                    "start_line": 3
+                }
+            },
+            "2": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.foo.x": 0,
+                        "__main__.foo.y": 1
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 19,
+                    "end_line": 6,
+                    "input_file": {
+                        "filename": "revoked_reference_ex2"
+                    },
+                    "start_col": 5,
+                    "start_line": 6
+                }
+            },
+            "4": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 1
+                    },
+                    "reference_ids": {
+                        "__main__.foo.x": 0,
+                        "__main__.foo.y": 2
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 19,
+                    "end_line": 8,
+                    "input_file": {
+                        "filename": "revoked_reference_ex2"
+                    },
+                    "start_col": 5,
+                    "start_line": 8
+                }
+            },
+            "6": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 2
+                    },
+                    "reference_ids": {
+                        "__main__.foo.x": 0,
+                        "__main__.foo.y": 2
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 13,
+                    "end_line": 9,
+                    "input_file": {
+                        "filename": "revoked_reference_ex2"
+                    },
+                    "start_col": 5,
+                    "start_line": 9
+                }
+            },
+            "8": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.foo.x": 0,
+                        "__main__.foo.y": 1
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 19,
+                    "end_line": 12,
+                    "input_file": {
+                        "filename": "revoked_reference_ex2"
+                    },
+                    "start_col": 5,
+                    "start_line": 12
+                }
+            },
+            "10": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 1
+                    },
+                    "reference_ids": {
+                        "__main__.foo.x": 0,
+                        "__main__.foo.y": 3
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 19,
+                    "end_line": 14,
+                    "input_file": {
+                        "filename": "revoked_reference_ex2"
+                    },
+                    "start_col": 5,
+                    "start_line": 14
+                }
+            },
+            "12": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.foo"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 2
+                    },
+                    "reference_ids": {
+                        "__main__.foo.x": 0
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 8,
+                    "end_line": 18,
+                    "input_file": {
+                        "filename": "revoked_reference_ex2"
+                    },
+                    "start_col": 5,
+                    "start_line": 18
+                }
+            },
+            "13": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 0
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 10,
+                    "end_line": 22,
+                    "input_file": {
+                        "filename": "revoked_reference_ex2"
+                    },
+                    "start_col": 9,
+                    "start_line": 22
+                }
+            },
+            "15": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 1
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 11,
+                    "end_line": 22,
+                    "input_file": {
+                        "filename": "revoked_reference_ex2"
+                    },
+                    "start_col": 5,
+                    "start_line": 22
+                }
+            },
+            "17": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 5
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 8,
+                    "end_line": 23,
+                    "input_file": {
+                        "filename": "revoked_reference_ex2"
+                    },
+                    "start_col": 5,
+                    "start_line": 23
+                }
+            }
+        }
+    },
+    "hints": {},
+    "identifiers": {
+        "__main__.foo": {
+            "decorators": [],
+            "pc": 0,
+            "type": "function"
+        },
+        "__main__.foo.Args": {
+            "full_name": "__main__.foo.Args",
+            "members": {
+                "x": {
+                    "cairo_type": "felt",
+                    "offset": 0
+                }
+            },
+            "size": 1,
+            "type": "struct"
+        },
+        "__main__.foo.ImplicitArgs": {
+            "full_name": "__main__.foo.ImplicitArgs",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.foo.Return": {
+            "cairo_type": "()",
+            "type": "type_definition"
+        },
+        "__main__.foo.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.foo.done": {
+            "pc": 12,
+            "type": "label"
+        },
+        "__main__.foo.x": {
+            "cairo_type": "felt",
+            "full_name": "__main__.foo.x",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 0,
+                        "offset": 0
+                    },
+                    "pc": 0,
+                    "value": "[cast(fp + (-3), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.foo.x_is_zero": {
+            "pc": 2,
+            "type": "label"
+        },
+        "__main__.foo.x_not_zero": {
+            "pc": 8,
+            "type": "label"
+        },
+        "__main__.foo.y": {
+            "cairo_type": "felt",
+            "full_name": "__main__.foo.y",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 0,
+                        "offset": 0
+                    },
+                    "pc": 0,
+                    "value": "cast(1, felt)"
+                },
+                {
+                    "ap_tracking_data": {
+                        "group": 0,
+                        "offset": 1
+                    },
+                    "pc": 4,
+                    "value": "cast(2, felt)"
+                },
+                {
+                    "ap_tracking_data": {
+                        "group": 0,
+                        "offset": 1
+                    },
+                    "pc": 10,
+                    "value": "cast(3, felt)"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.main": {
+            "decorators": [],
+            "pc": 13,
+            "type": "function"
+        },
+        "__main__.main.Args": {
+            "full_name": "__main__.main.Args",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.main.ImplicitArgs": {
+            "full_name": "__main__.main.ImplicitArgs",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.main.Return": {
+            "cairo_type": "()",
+            "type": "type_definition"
+        },
+        "__main__.main.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        }
+    },
+    "main_scope": "__main__",
+    "prime": "0x800000000000011000000000000000000000000000000000000000000000001",
+    "reference_manager": {
+        "references": [
+            {
+                "ap_tracking_data": {
+                    "group": 0,
+                    "offset": 0
+                },
+                "pc": 0,
+                "value": "[cast(fp + (-3), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 0,
+                    "offset": 0
+                },
+                "pc": 0,
+                "value": "cast(1, felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 0,
+                    "offset": 1
+                },
+                "pc": 4,
+                "value": "cast(2, felt)"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 0,
+                    "offset": 1
+                },
+                "pc": 10,
+                "value": "cast(3, felt)"
+            }
+        ]
+    }
+}
