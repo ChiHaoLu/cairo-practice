@@ -27,7 +27,7 @@
         "0x1104800180018000",
         "0x800000000000010ffffffffffffffffffffffffffffffffffffffffffffffee",
         "0x480680017fff8000",
-        "0x800000000000011000000000000000000000000000000000000000000000000",
+        "0x3e9",
         "0x1104800180018000",
         "0x800000000000010ffffffffffffffffffffffffffffffffffffffffffffffea",
         "0x208b7fff7fff7ffe"
@@ -241,7 +241,7 @@
                 "hints": [],
                 "inst": {
                     "end_col": 26,
-                    "end_line": 17,
+                    "end_line": 16,
                     "input_file": {
                         "filename": "range-check.cairo"
                     },
@@ -255,12 +255,12 @@
                             "parent_location": [
                                 {
                                     "end_col": 14,
-                                    "end_line": 19,
+                                    "end_line": 18,
                                     "input_file": {
                                         "filename": "range-check.cairo"
                                     },
                                     "start_col": 5,
-                                    "start_line": 19
+                                    "start_line": 18
                                 },
                                 "While trying to retrieve the implicit argument 'range_check_ptr' in:"
                             ],
@@ -270,7 +270,7 @@
                         "While expanding the reference 'range_check_ptr' in:"
                     ],
                     "start_col": 11,
-                    "start_line": 17
+                    "start_line": 16
                 }
             },
             "9": {
@@ -290,12 +290,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 13,
-                    "end_line": 19,
+                    "end_line": 18,
                     "input_file": {
                         "filename": "range-check.cairo"
                     },
                     "start_col": 9,
-                    "start_line": 19
+                    "start_line": 18
                 }
             },
             "11": {
@@ -315,12 +315,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 14,
-                    "end_line": 19,
+                    "end_line": 18,
                     "input_file": {
                         "filename": "range-check.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 19
+                    "start_line": 18
                 }
             },
             "13": {
@@ -340,12 +340,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 12,
-                    "end_line": 20,
+                    "end_line": 19,
                     "input_file": {
                         "filename": "range-check.cairo"
                     },
                     "start_col": 9,
-                    "start_line": 20
+                    "start_line": 19
                 }
             },
             "15": {
@@ -365,12 +365,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 13,
-                    "end_line": 20,
+                    "end_line": 19,
                     "input_file": {
                         "filename": "range-check.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 20
+                    "start_line": 19
                 }
             },
             "17": {
@@ -390,12 +390,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 10,
-                    "end_line": 21,
+                    "end_line": 20,
                     "input_file": {
                         "filename": "range-check.cairo"
                     },
                     "start_col": 9,
-                    "start_line": 21
+                    "start_line": 20
                 }
             },
             "19": {
@@ -415,12 +415,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 11,
-                    "end_line": 21,
+                    "end_line": 20,
                     "input_file": {
                         "filename": "range-check.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 21
+                    "start_line": 20
                 }
             },
             "21": {
@@ -439,7 +439,7 @@
                 },
                 "hints": [],
                 "inst": {
-                    "end_col": 11,
+                    "end_col": 13,
                     "end_line": 22,
                     "input_file": {
                         "filename": "range-check.cairo"
@@ -464,7 +464,7 @@
                 },
                 "hints": [],
                 "inst": {
-                    "end_col": 12,
+                    "end_col": 14,
                     "end_line": 22,
                     "input_file": {
                         "filename": "range-check.cairo"
@@ -490,12 +490,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 15,
-                    "end_line": 25,
+                    "end_line": 24,
                     "input_file": {
                         "filename": "range-check.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 25
+                    "start_line": 24
                 }
             }
         }

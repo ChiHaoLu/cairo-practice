@@ -13,14 +13,13 @@ func foo{range_check_ptr}(x) {
     return ();
 }
 
-
 func main{range_check_ptr}() {
 
     foo(1000);
     foo(100);
     foo(1);
-    foo(-1); // expect failed
-    // foo(1001); // expect failed
+    // foo(-1); // expect failed
+    //foo(1001); // expect failed
     
     return ();
 }
